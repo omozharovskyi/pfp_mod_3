@@ -1,1 +1,2 @@
+10. Add the first line of the text file (different from the first branch),     commit, and push on remote;
 2. Create a text file in the folder and commit it;
