@@ -1,1 +1,2 @@
+7. Add the first line in the text file, commit, and push to remote;
 2. Create a text file in the folder and commit it;
